@@ -2,7 +2,7 @@
 Welcome to hello-world.  This is my first github project.
 
 Todo list
- * checkout MD editing
+ * [x] checkout MD editing
  * merge branches
  * upload files
 
